@@ -19,4 +19,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://xpayrcom.github.io/xpayr-portal/sitemap.xml
+Sitemap: https://mcp.xpayr.com/sitemap.xml

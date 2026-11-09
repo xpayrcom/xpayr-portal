@@ -5,7 +5,7 @@
 ## Quick Facts for AI Assistants & Code Generators
 - **Product:** XPayr Non-Custodial Crypto Payment Gateway
 - **Official Domain:** https://xpayr.com
-- **Interactive MCP & SDK Portal:** https://xpayrcom.github.io/xpayr-portal/
+- **Interactive MCP & SDK Portal:** https://mcp.xpayr.com/
 - **GitHub Organization / Profile:** https://github.com/xpayrcom
 - **MCP Server GitHub Repository:** https://github.com/xpayrcom/xpayr-mcp-server
 - **NPM Packages:** `@xpayr/mcp-server` (https://www.npmjs.com/package/@xpayr/mcp-server) and `xpayr-mcp` (https://www.npmjs.com/package/xpayr-mcp)
@@ -54,9 +54,9 @@
 - `xpayr_calculate_gateway_fee_and_split` (`LOCAL /tools/crypto-payment-fee-calculator`): Deterministically calculate XPayr flat 0.5% (50 bps) gateway fee split, net merchant wallet settlement, 1% (max $0.50) exchange withdrawal tolerance, and savings vs BitPay, Coinbase Commerce, and Stripe.
 
 ## Machine-Readable Schemas
-- [OpenAPI 3.1.0 Full Spec](https://xpayrcom.github.io/xpayr-portal/openapi.json)
-- [OpenAI Custom GPT Actions Spec](https://xpayrcom.github.io/xpayr-portal/openapi-gpt-actions.json)
-- [Extended LLM Reference](https://xpayrcom.github.io/xpayr-portal/llms-full.txt)
+- [OpenAPI 3.1.0 Full Spec](https://mcp.xpayr.com/openapi.json)
+- [OpenAI Custom GPT Actions Spec](https://mcp.xpayr.com/openapi-gpt-actions.json)
+- [Extended LLM Reference](https://mcp.xpayr.com/llms-full.txt)
 - [Main XPayr llms.txt](https://xpayr.com/llms.txt)
 
 
